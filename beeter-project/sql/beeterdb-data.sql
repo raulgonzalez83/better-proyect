@@ -3,7 +3,7 @@ insert into users values('alicia', 'Alicia', 'alicia@acme.com');
 insert into users values('blas', 'Blas', 'blas@acme.com');
 
 insert into stings (username, subject, content) values ('alicia', 'Mensaje absurdo#0', 'Fermín Cacho parece buen muchacho.');
-select sleep(1);insert into stings (username, subject, content) values ('blas', 'Mensaje absurdo#1', 'Fermín Cacho parece buen muchacho.');
+select sleep(1);insert into stings (username, subject, content) values ('blas', 'Mensaje absurdo#01', 'Fermín Cacho parece buen muchacho.');
 select sleep(1);insert into stings (username, subject, content) values ('alicia', 'Mensaje absurdo#2', 'Fermín Cacho parece buen muchacho.');
 select sleep(1);insert into stings (username, subject, content) values ('blas', 'Mensaje absurdo#3', 'Fermín Cacho parece buen muchacho.');
 select sleep(1);insert into stings (username, subject, content) values ('alicia', 'Mensaje absurdo#4', 'Fermín Cacho parece buen muchacho.');
