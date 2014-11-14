@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.rlorenzo.beeter.api.model;
+package edu.upc.eetac.dsa.rgonzalez.beeter.api.model;
 
 
 import java.util.List;
@@ -10,8 +10,8 @@ import org.glassfish.jersey.linking.InjectLink;
 import org.glassfish.jersey.linking.InjectLink.Style;
 import org.glassfish.jersey.linking.InjectLinks;
 
-import edu.upc.eetac.dsa.rlorenzo.beeter.api.StingResource;
-import edu.upc.eetac.dsa.rlorenzo.beeter.api.MediaType;
+import edu.upc.eetac.dsa.rgonzalez.beeter.api.StingResource;
+import edu.upc.eetac.dsa.rgonzalez.beeter.api.MediaType;
 
 public class Sting {
 	@InjectLinks({
