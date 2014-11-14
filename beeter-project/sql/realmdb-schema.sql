@@ -1,6 +1,7 @@
 drop database if exists realmdb;
 create database realmdb;
 
+
 use realmdb;
 
 create table users (
